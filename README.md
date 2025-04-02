@@ -13,11 +13,11 @@ Este proyecto tiene como objetivo desarrollar un modelo de detección de fraude 
 Los datos empleados contienen información relevante sobre transacciones, incluyendo:
 
 - **Monto de la transacción**
-- **Frecuencia de transacciones por usuario**
+- **Frecuencia de transacciones**
 - **Ubicación de la transacción**
 - **Método de pago utilizado**
 
-> ⚠️ *Dado que la consulta SQL utilizada para generar estas features es confidencial, no se incluye en este repositorio.*
+> ⚠️ *Dado la matriz de features completa es confidencial, no se incluye en este repositorio.*
 
 ## Acerca de Isolation Forest
 
