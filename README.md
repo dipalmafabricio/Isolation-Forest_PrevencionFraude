@@ -17,7 +17,7 @@ Los datos empleados contienen información relevante sobre transacciones, incluy
 - **Ubicación de la transacción**
 - **Método de pago utilizado**
 
-> ⚠️ *Dado la matriz de features completa es confidencial, no se incluye en este repositorio.*
+> ⚠️ *Dado que la matriz de features completa es confidencial, no se incluye en este repositorio.*
 
 ## Acerca de Isolation Forest
 
